@@ -1,4 +1,5 @@
-atcoder/*
+# venv
+atcoder/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -177,9 +178,12 @@ cython_debug/
 
 #For Mac OS
 # General
+*.swo
+*.swp
 .DS_Store
 .AppleDouble
 .LSOverride
+set_env_vars.sh
 
 # Icon must end with two \r
 Icon

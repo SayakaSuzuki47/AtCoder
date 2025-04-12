@@ -1,0 +1,16 @@
+#env
+# activate
+source atcoder/bin/activate
+# deactivate
+deactivate
+
+#python format
+
+# Atcoder
+# Get Question
+oj-prepare https://atcoder.jp/contests/hogehoge
+
+# Test
+# cd for main.py dir
+oj test -c 'python main.py' -t 2
+
